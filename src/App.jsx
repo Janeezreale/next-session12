@@ -9,7 +9,7 @@ import NicknameSlot from "./sections/NicknameSlot";
 //  ✏️  팀에서 이 부분만 직접 채워주세요
 // ─────────────────────────────────────────────
 const TEAM_NAME = "여기에 팀명";
-const MEMBERS = ["멤버1", "멤버2", "멤버3", "멤버4"];
+const MEMBERS = ["수민", "혜진", "가빈", "건준"];
 // ─────────────────────────────────────────────
 
 const TABS = [
