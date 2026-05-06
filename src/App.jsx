@@ -8,8 +8,8 @@ import NicknameSlot from "./sections/NicknameSlot";
 // ─────────────────────────────────────────────
 //  ✏️  팀에서 이 부분만 직접 채워주세요
 // ─────────────────────────────────────────────
-const TEAM_NAME = "여기에 팀명";
-const MEMBERS = ["멤버1", "멤버2", "멤버3", "멤버4"];
+const TEAM_NAME = "Next Team Goat";
+const MEMBERS = ["조혜진", "이건준", "송수민", "윤가빈"];
 // ─────────────────────────────────────────────
 
 const TABS = [
