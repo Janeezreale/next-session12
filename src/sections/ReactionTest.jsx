@@ -39,7 +39,7 @@ function ReactionTest({ teamName, members }) {
     return () => clearTimeout(timerId);
   }, [status]); // status가 바뀔 때마다 실행
 
-  // 데스트 시작
+  // 테스트 시작
   const startTest = () => {
     // 이전 기록 초기화
     setReactionMs(null);
